@@ -1,1 +1,2 @@
-To jest zmiana na mastrze 
+
+To jest zmiana na newFeature branch
